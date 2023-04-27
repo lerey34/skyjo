@@ -1,0 +1,7 @@
+{
+  "name": "skyjo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
